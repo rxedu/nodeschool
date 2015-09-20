@@ -1,0 +1,11 @@
+{
+  "name": "nodeschool",
+  "description": "My personal lessons from NodeSchool.",
+  "author": "Evan Sosenko <razorx@evansosenko.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rxlabs/nodeschool.git"
+  },
+  "private": true,
+  "license": "Public Domain"
+}
