@@ -6,6 +6,12 @@
     "type": "git",
     "url": "https://github.com/rxlabs/nodeschool.git"
   },
+  "scripts": {
+    "javascripting": "javascripting"
+  },
   "private": true,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "dependencies": {
+    "javascripting": "^2.1.0"
+  }
 }
