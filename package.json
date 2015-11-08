@@ -12,6 +12,7 @@
   "private": true,
   "license": "Public Domain",
   "dependencies": {
-    "javascripting": "^2.1.0"
+    "javascripting": "^2.1.0",
+    "learnyounode": "^3.1.2"
   }
 }
