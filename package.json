@@ -7,7 +7,8 @@
     "url": "https://github.com/rxlabs/nodeschool.git"
   },
   "scripts": {
-    "javascripting": "javascripting"
+    "javascripting": "javascripting",
+    "learnyounode": "learnyounode"
   },
   "private": true,
   "license": "Public Domain",
