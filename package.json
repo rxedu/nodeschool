@@ -13,6 +13,7 @@
   "private": true,
   "license": "Public Domain",
   "dependencies": {
+    "bl": "^1.0.0",
     "javascripting": "^2.1.0",
     "learnyounode": "^3.1.2"
   }
