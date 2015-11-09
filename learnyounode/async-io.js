@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-function lines(err, data) {
+function lines (err, data) {
   return console.log(data.split('\n').length - 1);
 }
 
