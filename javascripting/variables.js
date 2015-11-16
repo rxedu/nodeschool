@@ -1,5 +1,5 @@
-var example;
+var example
 
-example = 'some string';
+example = 'some string'
 
-console.log(example);
+console.log(example)
