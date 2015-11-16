@@ -8,7 +8,8 @@
   },
   "scripts": {
     "javascripting": "javascripting",
-    "learnyounode": "learnyounode"
+    "learnyounode": "learnyounode",
+    "lint": "standard"
   },
   "private": true,
   "license": "Public Domain",
@@ -16,6 +17,7 @@
     "bl": "^1.0.0",
     "javascripting": "^2.1.0",
     "learnyounode": "^3.1.2",
+    "standard": "^5.3.1",
     "strftime": "^0.9.2",
     "through2-map": "^2.0.0"
   }
